@@ -1,6 +1,6 @@
 import React from 'react';
 import { useParams } from 'react-router-dom';
-import { productos } from './productos'; // Asegúrate de que la ruta sea correcta
+import { productos } from './productos'; 
 
 const DetallesProducto = () => {
     const { id } = useParams();

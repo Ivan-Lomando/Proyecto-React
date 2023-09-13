@@ -1,5 +1,5 @@
 import React from 'react';
-import { Link } from 'react-router-dom'; // Importa Link de React Router
+import { Link } from 'react-router-dom'; 
 import { Box, Image, Text, Button } from '@chakra-ui/react';
 
 function TarjetaProducto({ producto }) {
